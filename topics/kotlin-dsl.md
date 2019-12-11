@@ -541,6 +541,6 @@ _Solution_: Use tokens instead of passwords. Refer to the [related section](stor
             <a href="upgrading-dsl.md"/>
         </category>
     <category ref="external">
-        <a href="https://blog.jetbrains.com/teamcity/2019/03/configuration-as-code-part-1-getting-started-with-kotlin-dsl/">Configuration as Code, Part 1: Getting Started with Kotlin DSL</a>
+        <a href="https://blog.jetbrains.com/teamcity/2019/03/configuration-as-code-part-1-getting-started-with-kotlin-dsl/"/>
     </category>
 </seealso>
