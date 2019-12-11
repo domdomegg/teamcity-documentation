@@ -536,11 +536,8 @@ __Since TeamCity 2017.1__
 _Solution_: Use tokens instead of passwords. Refer to the [related section](storing-project-settings-in-version-control.md#Managing+Tokens).
 
 <seealso>
-        <category ref="admin-guide">
+        <category="admin-guide">
             <a href="storing-project-settings-in-version-control.md"/>
             <a href="upgrading-dsl.md"/>
         </category>
-    <category ref="external">
-        <a href="https://blog.jetbrains.com/teamcity/2019/03/configuration-as-code-part-1-getting-started-with-kotlin-dsl/"/>
-    </category>
 </seealso>
