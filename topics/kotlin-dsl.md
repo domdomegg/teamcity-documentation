@@ -536,7 +536,7 @@ __Since TeamCity 2017.1__
 _Solution_: Use tokens instead of passwords. Refer to the [related section](storing-project-settings-in-version-control.md#Managing+Tokens).
 
 <seealso>
-        <category="admin-guide">
+        <category ref="admin-guide">
             <a href="storing-project-settings-in-version-control.md"/>
             <a href="upgrading-dsl.md"/>
         </category>
