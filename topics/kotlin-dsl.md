@@ -537,7 +537,7 @@ _Solution_: Use tokens instead of passwords. Refer to the [related section](stor
 
 <seealso>
         <category ref="admin-guide">
-            <a href="storing-project-settings-in-version-control.md"/>
-            <a href="upgrading-dsl.md"/>
+            <a href="storing-project-settings-in-version-control.md">Storing Project Settings in Version Control</a>
+            <a href="upgrading-dsl.md">Upgrading DSL</a>
         </category>
 </seealso>
