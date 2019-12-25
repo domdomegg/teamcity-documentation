@@ -92,7 +92,7 @@
          <toc-element id="upgrade-notes.md"/>
          <toc-element id="upgrade.md"/>
          <toc-element id="teamcity-maintenance-mode.md"/>
-         <toc-element id="setting-up-an-external-database.md">
+         <toc-element id="setting-up-an-external-database.md" show-structure-for="chapter" show-structure-depth="4">
             <toc-element id="setting-up-teamcity-with-ms-sql-server.md"/>
             <toc-element id="configuring-utf8-character-set-for-mysql.md"/>
             <toc-element id="using-aws-aurora-database-cluster.md"/>
