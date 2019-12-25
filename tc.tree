@@ -3,11 +3,11 @@
         SYSTEM "http://helpserver.labs.intellij.net/help/product-profile.dtd">
 <product-profile id="tc" name="TeamCity" start-page="teamcity-documentation.md" status="release">
    <toc-element id="teamcity-documentation.md">
-      <toc-element id="what-s-new-in-teamcity-2019.2.md"/>
+      <toc-element id="what-s-new-in-teamcity-2019.2.md" show-structure-for="chapter" show-structure-depth="4"/>
       <toc-element id="getting-started-with-teamcity.md">
-         <toc-element id="continuous-integration-with-teamcity.md" />
-         <toc-element id="installation-quick-start.md" />
-         <toc-element id="configure-and-run-your-first-build.md"/>
+         <toc-element id="continuous-integration-with-teamcity.md" show-structure-for="chapter" show-structure-depth="4"/>
+         <toc-element id="installation-quick-start.md" show-structure-for="chapter" show-structure-depth="4"/>
+         <toc-element id="configure-and-run-your-first-build.md" show-structure-for="chapter" show-structure-depth="4"/>
       </toc-element>
       <toc-element id="concepts.md">
          <toc-element id="build-artifact.md"/>
