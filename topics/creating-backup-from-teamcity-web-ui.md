@@ -103,10 +103,10 @@ The __History__ tab of the __Administration | Backup__ page  allows reviewing th
 Note that only backup files created from web UI are shown here. Backups created with the [utility](creating-backup-via-maintaindb-command-line-tool.md) are not displayed on the __History__ tab.
 
 <seealso>
-        <category ref="installation">
+        <category ref="performance">
             <a href="upgrade.md">Upgrade</a>
         </category>
-        <category ref="concepts">
+        <category ref="misc">
             <a href="teamcity-data-directory.md">TeamCity Data Directory</a>
         </category>
         <category ref="admin-guide">
