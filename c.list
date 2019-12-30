@@ -9,6 +9,7 @@
     <category id="user-guide" name="User's Guide" order="603"/>
     <category id="troubleshooting" name="Troubleshooting" order="604"/>
     <category id="videos" name="Videos" order="605"/>
+    <category id="licensing" name="Licensing" order="606"/>
     <category id="pdf_resources" name="PDF Resources" order="500"/>
     <category name="Search" id="search" order="11"/>
     <category id="web_resources" name="Web Resources" order="99"/>
